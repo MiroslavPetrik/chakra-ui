@@ -1,5 +1,22 @@
 # @chakra-ui/cli
 
+## 2.1.3
+
+### Patch Changes
+
+- [#6336](https://github.com/chakra-ui/chakra-ui/pull/6336)
+  [`88e812c3a`](https://github.com/chakra-ui/chakra-ui/commit/88e812c3a6d99554965b54856382916b6fbf6774)
+  Thanks [@itkrt2y](https://github.com/itkrt2y)! - update sample command
+
+* [#6356](https://github.com/chakra-ui/chakra-ui/pull/6356)
+  [`1839e22eb`](https://github.com/chakra-ui/chakra-ui/commit/1839e22ebad1c2a52795eac5fd0b3eb38ae03f9c)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Force release due
+  to change in build configuration
+
+* Updated dependencies
+  [[`1839e22eb`](https://github.com/chakra-ui/chakra-ui/commit/1839e22ebad1c2a52795eac5fd0b3eb38ae03f9c)]:
+  - @chakra-ui/utils@2.0.5
+
 ## 2.1.2
 
 ### Patch Changes
